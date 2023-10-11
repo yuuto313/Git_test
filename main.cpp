@@ -1,6 +1,6 @@
 #include <Novice.h>
 
-const char kWindowTitle[] = "LC1C_08_オザワ_ユウト_タイトル";
+const char kWindowTitle[] = "LC1B_08_オザワ_ユウト_タイトル";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
@@ -33,7 +33,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓描画処理ここから
 		///
 
-		Novice::ScreenPrintf(0,0,"Hello");
+		Novice::ScreenPrintf(0,0,"Hello\n");
+		Novice::ScreenPrintf(0,15,"LC1B_05_オザワ_ユウト\n")
 
 		///
 		/// ↑描画処理ここまで
