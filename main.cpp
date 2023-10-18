@@ -36,6 +36,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(0,0,"Hello\n");
 		Novice::ScreenPrintf(0, 15, "LC1B_05_オザワ_ユウト\n");
 		Novice::ScreenPrintf(0, 30, "2023/10/11\n");
+		Novice::ScreenPrintf(0, 45, "Playerの作成\n");
 
 		///
 		/// ↑描画処理ここまで
