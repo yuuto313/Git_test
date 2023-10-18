@@ -38,6 +38,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(0, 30, "2023/10/11\n");
 		Novice::ScreenPrintf(0, 45, "Playerの作成\n");
 		Novice::ScreenPrintf(0, 60, "マージしてください\n");
+		Novice::ScreenPrintf(0, 60, "マージお願いします！\n");
 
 		///
 		/// ↑描画処理ここまで
