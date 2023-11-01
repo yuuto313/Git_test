@@ -31,10 +31,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		///
 		/// ↓描画処理ここから
-		///
-
-		Novice::ScreenPrintf(0, 0, "ドラクエ");
-
+		Novice::ScreenPrintf(0, 0, "キングダムハーツ");
 		///
 		/// ↑描画処理ここまで
 		///
