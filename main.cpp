@@ -39,7 +39,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(0, 45, "Playerの作成\n");
 		Novice::ScreenPrintf(0, 60, "マージしてください\n");
 		Novice::ScreenPrintf(0, 60, "マージお願いします！\n");
-
+		Novice::ScreenPrintf(0, 75, "プルリクエストの作成");
 
 		///
 		/// ↑描画処理ここまで
